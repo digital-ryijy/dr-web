@@ -1,8 +1,13 @@
-# Getting Started with Create React App
+# development stage of DIGITAL RYIJY web app
+
+Social art project that aims to bring people together in developing online platform where we can co-create art by sharing stories. 
+It is created by community for communities.  
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Available Scripts in the create react app
 
 In the project directory, you can run:
 
