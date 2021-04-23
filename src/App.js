@@ -1,23 +1,19 @@
-import logo from './logo.svg';
+import BGimage from './images/BGimage_cropped.png';
+import logo from './images/ryijy1_white.svg';
 import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="homepage">
+
+      <img src={logo} className="logo" alt="ryijy logo" />
+      <img src={BGimage} className="image" alt="textile canvas" />
+
+      <div className="update-msg">
+
+      </div>
+
+
     </div>
   );
 }
