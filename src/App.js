@@ -1,5 +1,5 @@
 import BGimage from './images/BGimage_cropped.png';
-import logo from './images/ryijy1_white.svg';
+import logo from './images/updated_logo_bold_white.svg';
 import './App.css';
 
 function App() {
