@@ -1,12 +1,11 @@
 import BGimage from './images/BGimage_cropped.png';
-import logo from './images/updated_logo_bold_white.svg';
 import './App.css';
+import AnimatedLogo from './AnimateLogo.js';
 
 function App() {
   return (
     <div className="homepage">
-
-      <img src={logo} className="logo" alt="ryijy logo" />
+      <AnimatedLogo />
       <img src={BGimage} className="image" alt="textile canvas" />
 
       <div className="update-msg">
