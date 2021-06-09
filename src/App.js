@@ -1,6 +1,6 @@
 import BGimage from './images/BGimage_cropped.png';
 import './App.css';
-import AnimatedLogo from './AnimateLogo.js';
+import AnimatedLogo from './AnimatedLogo.js';
 
 function App() {
   return (
